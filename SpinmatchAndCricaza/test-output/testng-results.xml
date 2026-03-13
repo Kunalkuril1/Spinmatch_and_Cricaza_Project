@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-30T09:33:37 IST" name="Default suite" finished-at="2024-10-30T09:44:38 IST" duration-ms="661344">
+    <groups>
+    </groups>
+    <test started-at="2024-10-30T09:33:37 IST" name="Default test" finished-at="2024-10-30T09:44:38 IST" duration-ms="661344">
+      <class name="com.khelstake.test.SpinMatch_Slots_01">
+        <test-method is-config="true" signature="intializationReportConfig()[pri:0, instance:com.khelstake.test.SpinMatch_Slots_01@43df23d3]" started-at="2024-10-30T09:33:36 IST" name="intializationReportConfig" finished-at="2024-10-30T09:33:37 IST" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializationReportConfig -->
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.khelstake.test.SpinMatch_Slots_01@43df23d3]" started-at="2024-10-30T09:33:37 IST" name="startReport" finished-at="2024-10-30T09:33:37 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="lunchWeb()[pri:0, instance:com.khelstake.test.SpinMatch_Slots_01@43df23d3]" started-at="2024-10-30T09:33:37 IST" name="lunchWeb" finished-at="2024-10-30T09:33:39 IST" duration-ms="1935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchWeb -->
+        <test-method signature="validatingSlotsProviderSpribeToTechnology()[pri:0, instance:com.khelstake.test.SpinMatch_Slots_01@43df23d3]" started-at="2024-10-30T09:33:39 IST" name="validatingSlotsProviderSpribeToTechnology" finished-at="2024-10-30T09:44:36 IST" duration-ms="657064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingSlotsProviderSpribeToTechnology -->
+        <test-method is-config="true" signature="KillBrowser()[pri:0, instance:com.khelstake.test.SpinMatch_Slots_01@43df23d3]" started-at="2024-10-30T09:44:36 IST" name="KillBrowser" finished-at="2024-10-30T09:44:38 IST" duration-ms="2310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillBrowser -->
+        <test-method is-config="true" signature="KillReport()[pri:0, instance:com.khelstake.test.SpinMatch_Slots_01@43df23d3]" started-at="2024-10-30T09:44:38 IST" name="KillReport" finished-at="2024-10-30T09:44:38 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillReport -->
+      </class> <!-- com.khelstake.test.SpinMatch_Slots_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

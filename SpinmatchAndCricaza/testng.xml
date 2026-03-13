@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+       <class name="com.khelstake.test.SpinMatch_Casino"/>  
+    <!--   <class name="com.khelstake.test.SpinMatch_Slots_01"/>
+       <class name="com.khelstake.test.SpinMatch_Slots_02"/>
+        <class name="com.khelstake.test.SpinMatch_Slots_03"/>
+        <class name="com.khelstake.test.SpinMatch_Slots_04"/>
+         <class name="com.khelstake.test.SpinMatch_Slots_05"/>-->
+ <!--     <methods>
+   <include name="validating_All_Provider()"></include>
+</methods> -->
+<!-- </class> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
